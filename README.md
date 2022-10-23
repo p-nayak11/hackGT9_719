@@ -9,22 +9,8 @@ How many times have you forgotten your BuzzCard at your dorm? Forcing your BuzzC
 As technology continues to become integrated into our daily lives, we often find ourselves become more congizant and aware of the presence of these mobile technolgies. Companies and banks have realized the incentive of digitizing common identification and payments. Driver's License, employee ID's, and barcodes are all identification mediums that have been added to the digital landscape.  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Process ##
+We built the project using the Unity Engine. Through the use of Plastic SCM, cloud storage was reached, so we could share our changes in real-time as we all tackled different aspects of the project. We implemented all of our code in C# where a sample database of GT students and their data was created to test out our project. Ultimately we focused our project to work on Apple devices due to the functionalities of Apple Wallet.
 
 
 

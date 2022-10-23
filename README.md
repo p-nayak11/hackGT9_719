@@ -19,8 +19,6 @@ We faced several technical and general challenges throughout the process of Stin
 
 
 
-## Future Outlook ## 
-As we look towards the future, we know there are many ways to enhance our application. A massive concern with any digital form of transaction has always been security, and with Sting we plan to implement history logs within the app to keep track of transactions/ general card authorizations, we also plan to implmenet facial detection software to enhance security when logging in. Of course like many other universities, Georgia Tech being the next, we plan to expand our program to other universities. 
 
 
 
@@ -57,3 +55,9 @@ As we look towards the future, we know there are many ways to enhance our applic
 
 ## What we learned ##
 During this project, we had several major learning curve stages. One of the biggest things we learned in this project was to always aim high with our project idea and to fully flesh out all of our ideas. The more possible ways we can better our project, the better right? We began our project Sting by having several ideas which required computing and time that were far beyond what we could have accomplished in our given time. However, keeping sight in what we can do helped us better what we were doing, to be able to add even more features in our project. More specifically, our entire team became more well-versed in the use of Unity, creating our entire app in the project. Lastly, we learned that most of the time, for apps like we are creating, there are often paywalls we need to get past. Therefore, for lower budget projects, we should try to shy away from these projects.
+
+
+
+
+## Future Outlook ## 
+As we look towards the future, we know there are many ways to enhance our application. A massive concern with any digital form of transaction has always been security, and with Sting we plan to implement history logs within the app to keep track of transactions/ general card authorizations, we also plan to implmenet facial detection software to enhance security when logging in. Of course like many other universities, Georgia Tech being the next, we plan to expand our program to other universities. 

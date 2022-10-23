@@ -10,4 +10,17 @@ As technology continues to become integrated into our daily lives, we often find
 
 
 
-#Testing#
+
+
+
+
+
+
+
+
+
+
+
+
+##Future Outlook## 
+As we look towards the future, we know there are many ways to enhance our application. A massive concern with any digital form of transaction has always been security, and with Sting we plan to implement history logs within the app to keep track of transactions/ general card authorizations, we also plan to implmenet facial detection software to enhance security when logging in. Of course like many other universities, Georgia Tech being the next, we plan to expand our program to other universities. 

@@ -22,5 +22,16 @@ As technology continues to become integrated into our daily lives, we often find
 
 
 
-##Future Outlook## 
+
+
+
+
+
+
+## Challenges ##
+We faced several technical and general challenges throughout the process of Sting's development. A main theme of an issue that we kept running into was the problem of money. We kept encountering paywalls when it came to developing freely with xcode and swift, or allowing all of our group members to work collaboratively on unity because of a 3 person restriction on the free version. Despite, the challenges we persevered past them, being innovative and creative when it came to efficiently spending our time towards our goal. We also came into several stumps, and in those time we reached out for help, watch many, many videos, and took a rest when we needed it.  We learned that sometimes a fresh perspective aided in simplfying complex problems. Overall, the hackathon taught us a lot through these hardships,
+
+
+
+## Future Outlook ## 
 As we look towards the future, we know there are many ways to enhance our application. A massive concern with any digital form of transaction has always been security, and with Sting we plan to implement history logs within the app to keep track of transactions/ general card authorizations, we also plan to implmenet facial detection software to enhance security when logging in. Of course like many other universities, Georgia Tech being the next, we plan to expand our program to other universities. 
